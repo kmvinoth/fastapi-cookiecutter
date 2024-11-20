@@ -1,4 +1,4 @@
-# travel-data-fastapi-cookiecutter
+# fastapi-cookiecutter
 Cookiecutter template for Fastapi deployment in Kubernetes environment
 
 ## Cookiecutter
