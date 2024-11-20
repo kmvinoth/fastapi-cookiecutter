@@ -1,0 +1,3 @@
+# https://editor.networkpolicy.io/
+apiVersion: cilium.io/v2
+kind: CiliumNetworkPolicy
